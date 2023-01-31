@@ -1,6 +1,7 @@
-### Olá, me chamo Lucas Henrique e desejo ser Desenvolvedor FullStack Junior
+### Olá, me chamo Lucas Henrique e desejo seguir carreira como Desenvolvedor FullStack
 
 - 🖥 Estudando Dev FullStack
+- 🆙 Programador Junior
 - 🌱 Busco sempre aprimorar minhas habilidades
 - ✉ Contate-me através do email: lucashenriquedevfs@gmail.com
 
